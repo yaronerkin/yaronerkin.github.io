@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Page title",
+    "image": "/images/Image1A.jpg",
+    "content": "UNTITLED 01, ClOTHING HANGER, 3D SCANNED, PROJECTED ON TO WALL, AND DIGITALLY PHOTOGRAPHED, 11/24/20 18:35:57 PM",
+    "template": "template1"
+  },
+  [
+    {
+      "id": 2,
+      "title": "Page title",
+      "image": "/images/Image9A.jpg",
+      "content": "UNTITLED 08, ADRIAN A, 3D SCANNED, PROJECTED ON TO FABRIC, AND THEN DIGITALLY PHOTOGRAPHED, 11/18/20 21:31:27 PM"
+    },
+    {
+      "id": 20,
+      "title": "Page title",
+      "image": "/images/Image8A.jpg",
+      "content": "UNTITLED 09, SHANY, 3D SCANNED, PROJECTED ON TO FABRIC, AND THEN DIGITALLY PHOTOGRAPHED, 11/18/20 21:57:41 PM"
+    }
+  ],
+  {
+    "id": 3,
+    "title": "Page title",
+    "image": "/images/Image2A.jpg",
+    "content": "UNTITLED 02, JASON, 3D SCANNED, PROJECTED ON TO WALL, AND THEN DIGITALLY PHOTOGRAPHED, 11/7/20 16:47:12 PM",
+    "template": "template3"
+  },
+  {
+    "id": 4,
+    "title": "Page title",
+    "image": "/images/Image3A.jpg",
+    "content": "UNTITLED 03, SHELVES, 3D SCANNED, PROJECTED ON TO WALL, AND THEN DIGITALLY PHOTOGRAPHED, 02/15/21 14:04:23 PM",
+    "template": "template4"
+  },
+  {
+    "id": 5,
+    "title": "Page title",
+    "image": "/images/Image4A.jpg",
+    "content": "UNTITLED 04, JASON, 3D SCANNED, PROJECTED ON TO WALL AND REFLECTED OFF OF A MIRROR, AND THEN DIGITALLY PHOTOGRAPHED, 11/7/20 17:10:03 PM",
+    "template": "template5"
+  },
+  {
+    "id": 6,
+    "title": "Page title",
+    "image": "/images/Image5A.jpg",
+    "content": "UNTITLED 05, SHANY SLEEPING UNDER THE SHEETS, 3D SCANNED, PROJECTED ON TO BED, AND THEN DIGITALLY PHOTOGRAPHED, 03/02/21 17:11:43 PM",
+    "template": "template6"
+  },
+  {
+    "id": 7,
+    "title": "Page title",
+    "image": "/images/Adrian.png",
+    "content": "UNTITLED 06, ADRIAN A, DIGITALLY PHOTOGRAPHED, PROJECTED ON TO FACE, AND THEN STILL WERE TAKEN FROM A VIDEO RECORDING, 10/21/20 18:56:59 PM",
+    "template": "template1"
+  },
+  {
+    "id": 8,
+    "title": "Page title",
+    "image": "/images/Image7A.jpg",
+    "content": "UNTITLED 07, SHANY, 3D SCANNED, PROJECTED ON TO FACE, AND THEN DIGITALLY PHOTOGRAPHED, 01/06/21 19:24:12 PM",
+    "template": "template2"
+  },
+  {
+    "id": 9,
+    "title": "Page title",
+    "image": "/images/Image10A.jpg",
+    "content": "UNTITLED 10, KARSEN, DIGITALLY PHOTOGRAPHED, PROJECTED ON TO WALL, AND THEN DIGITALLY PHOTOGRAPHED, 01/9/21 17:16:48 PM",
+    "template": "template3"
+  },
+  {
+    "id": 10,
+    "title": "Page title",
+    "image": "/images/Image11A.png",
+    "content": "UNTITLED 11, WINDOW, DIGITALLY PHOTOGRAPHED, PROJECTED ON TO WALL WITH ANSON'S SHADOW CASTED, AND THEN DIGITALLY PHOTOGRAPHED, 02/7/21 22:29:15 PM",
+    "template": "template4"
+  },
+  {
+    "id": 21,
+    "title": "Page title",
+    "image": "/images/Image12A.jpg",
+    "content": "UNTITLED 12, WINDOW, DIGITALLY PHOTOGRAPHED, PROJECTED ON TO WALL, AND THEN DIGITALLY PHOTOGRAPHED, 03/17/21 10:24:10 PM",
+    "template": "template1"
+  },
+  {
+    "id": 24,
+    "title": "Page title",
+    "image": "/images/Image13A.jpg",
+    "content": "UNTITLED 13, WINDOW, DIGITALLY PHOTOGRAPHED, PROJECTED ON TO CURTAIN, AND THEN DIGITALLY PHOTOGRAPHED, 10/04/20 17:53:10 PM",
+    "template": "template2"
+  }
+]
