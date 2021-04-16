@@ -1,6 +1,6 @@
 import React from 'react';
 import classnames from 'classnames';
-import {splitContentString} from "../lib/utils";
+import {buildImagePath, splitContentString} from "../lib/utils";
 
 const Image = ({ content, src, alt }) => {
   const [isMouseOver, setMouseOver] = React.useState(false);
@@ -19,7 +19,7 @@ const Image = ({ content, src, alt }) => {
         ))}
       </div>
       <div className="image-container__image">
-        <img src={src} alt={alt} />
+        <img src={buildImagePath(src)} alt={alt} />
       </div>
     </div>
   )

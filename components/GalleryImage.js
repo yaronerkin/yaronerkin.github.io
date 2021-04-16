@@ -1,6 +1,6 @@
 import React from 'react';
 import classnames from 'classnames';
-import {splitContentString} from "../lib/utils";
+import {buildImagePath, splitContentString} from "../lib/utils";
 
 
 const GalleryImage = ({ content, src, alt }) => {
@@ -19,7 +19,7 @@ const GalleryImage = ({ content, src, alt }) => {
         ))}
       </div>
       <div className="image-container__image">
-        <img src={src} alt={alt} />
+        <img src={buildImagePath(src)} alt={alt} />
       </div>
     </div>
   )

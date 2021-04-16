@@ -1,7 +1,7 @@
 import React from "react";
 import Headers from "../../components/Header";
 import NavLink from "../../components/NavLink";
-import {getNextRenderIndex, getPrevRenderIndex, splitContentString} from "../../lib/utils";
+import {buildImagePath, getNextRenderIndex, getPrevRenderIndex, splitContentString} from "../../lib/utils";
 import Cursor from "../../components/Cursor";
 import data from '../../data/book.json';
 
@@ -29,7 +29,7 @@ function SingleBookItem({ item, nextId, prevId }) {
         <main className="main">
           <section className="single-book-post">
             <div className="single-book-post__image">
-              <img src={item.image} alt=""/>
+              <img src={buildImagePath(item.image)} alt=""/>
             </div>
             <div className="single-book-post__navigation">
               <div className="single-book-post__navigation__item">
