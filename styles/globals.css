@@ -31,12 +31,7 @@ time, mark, audio, video {
   font-size: 12px;
 }
 
-#camera-container__camera
-{
-    transform: rotateY(180deg);
-    -webkit-transform:rotateY(180deg); /* Safari and Chrome */
-    -moz-transform:rotateY(180deg); /* Firefox */
-}
+
 
 #statement p{
   position: relative;
@@ -62,7 +57,7 @@ ul {
 video {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center;
 }
 
