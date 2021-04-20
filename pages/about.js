@@ -5,7 +5,7 @@ import NavLink from "../components/NavLink";
 function About() {
   return (
     <>
-      <Headers title="The User Experience" />
+      <Headers title="The User Condition" />
       <nav className="page-navigation">
         <NavLink
           url="/book"
@@ -30,17 +30,6 @@ function About() {
         <br></br>
         <p>In order to connect the user to the condition that they are a part of we created a site that would host the images and scans that were taken in the past few months. The index page frames the images while having an additional frame being the webcam which introduces and extends the screen and image to the user viewing it. Having “you” as this physical and now live digital image on the screen continues the motif of physical-digital-interconnection. Being on display changes the way you view and perceive the website. It forces you to acknowledge that you are interacting with the digital scene and that the digital scene is affecting your reality in a very physical way.</p>
         </div>
-
-
-        {/* <div id="statement">
-        <p>Intangibility, This is our condition. We are tangible, but our digital selves are not. As we move further online we are losing the importance of tangibility. As I become my Tinder bio, my Zoom screen, and my Facebook comments I (or my body rather) begin to disappear. Simultaneously as my emotions become more dictated by the digital boxes within which I exist, there is a reverse effect; these intangible spaces are pulled into reality. The flattened world is sucked into three dimensions. Existing in a digital space is interactive intangibility. How do you explain the third dimension to a second-dimensional being? How can I show myself who exists in my phone what it’s like to eat an orange, touch a flower, stub my toe? </p>
-        <br></br>
-        <p>My project interrogates intangibility within the space between digital and physical. The User Condition blends physical and digital objects and environments to create an ambiguous space which leads us to become vessels in this contradictory liminal space. Transitioning from one to another we are able to recognize and dissociate ourselves from the perceived limitations of tangibility. Presented through a website this state is shown through a collection of images and scans with the addition of a webcam to acknowledge the users interaction with this state.  </p>
-        </div> */}
-
-
-
-
 
         </main>
       </div>
