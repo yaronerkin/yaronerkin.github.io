@@ -5,7 +5,7 @@ import NavLink from "../components/NavLink";
 function About() {
   return (
     <>
-      <Headers title="About" />
+      <Headers title="The User Experience" />
       <nav className="page-navigation">
         <NavLink
           url="/book"
